@@ -1,5 +1,5 @@
 
-```markdown
+
 <!-- HEADER SECTION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdelrahman%20Elgendy&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20|%20.NET%20Developer%20|%20Full%20Stack%20Developer&descAlignY=62&descSize=22" alt="header" />
